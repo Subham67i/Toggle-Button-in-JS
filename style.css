@@ -1,0 +1,43 @@
+.container{
+    margin-top: 15%;
+    text-align: center;
+    justify-content: space-between;
+}
+#btn1{
+    padding: 15px;
+    margin-right: 10px;
+    width: 150px;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+#btn2{
+    padding: 15px;
+    margin-left: 10px;
+    width: 150px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid white;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+.light{
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+.dark{
+    background-color: black;
+    color: white;
+    text-align: center;
+   
+}
+
+
+
